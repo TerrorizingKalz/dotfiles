@@ -31,7 +31,7 @@
 	allowed = AKIAIOSFODNN7EXAMPLE
 	allowed = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 [init]
-	templateDir = /home/andrea/.git-templates/git-secrets
+	templateDir = /home/anon/.git-templates/git-secrets
 	defaultBranch = main
 [pull]
 	rebase = false
